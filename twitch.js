@@ -1,5 +1,6 @@
 var channels = ["ESL_SC2", "OgamingSC2", "cretetion", "freecodecamp", "storbeck", "habathcx", "RobotCaleb", "noobs2ninjas", "edemonster", "squareenix", "twitchpresents"];
 var offOnInfo = {};
+var temp = 0;
 var icon_size = "50";
 $(document).ready(function(){
   useAjax();
